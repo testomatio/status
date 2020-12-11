@@ -7,13 +7,15 @@ sites:
   - name: Landing Page
     url: https://testomat.io
   - name: Testomatio App
-    url: https://app.testomat.io
+    url: https://app.testomat.io/users/sign_in
   - name: Jira Plugin
     url: https://jira.testomat.io/
   - name: App Assets
     url: https://app-assets.testomat.io/assets/frontend.css
+  - name: Testomatio Cloud
+    url: https://cloud.testomat.io/users/sign_in
   - name: Testomatio Beta
-    url: https://app.testomat.io
+    url: https://beta.testomat.io/users/sign_in
   - name: Beta Assets
     url: https://frontend.testomat.io/assets/frontend.css
 
