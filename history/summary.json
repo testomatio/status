@@ -22,18 +22,20 @@
     "url": "https://app.testomat.io/users/sign_in",
     "icon": "https://favicons.githubusercontent.com/app.testomat.io",
     "slug": "testomatio-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 335,
-    "timeWeek": 356,
-    "timeMonth": 385,
-    "timeYear": 385,
-    "dailyMinutesDown": {}
+    "time": 382,
+    "timeDay": 331,
+    "timeWeek": 352,
+    "timeMonth": 382,
+    "timeYear": 382,
+    "dailyMinutesDown": {
+      "2020-12-20": 0
+    }
   },
   {
     "name": "Jira Plugin",
