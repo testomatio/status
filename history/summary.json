@@ -58,9 +58,9 @@
     "url": "https://app-assets.testomat.io/assets/frontend.css",
     "icon": "https://favicons.githubusercontent.com/app-assets.testomat.io",
     "slug": "app-assets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -70,6 +70,7 @@
     "timeMonth": 1307,
     "timeYear": 1330,
     "dailyMinutesDown": {
+      "2021-01-13": 0,
       "2021-01-07": 27
     }
   },
