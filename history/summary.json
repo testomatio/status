@@ -4,19 +4,19 @@
     "url": "https://testomat.io",
     "icon": "https://favicons.githubusercontent.com/testomat.io",
     "slug": "landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 881,
-    "timeWeek": 920,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 939,
+    "timeDay": 897,
+    "timeWeek": 919,
     "timeMonth": 913,
-    "timeYear": 940,
+    "timeYear": 939,
     "dailyMinutesDown": {
-      "2021-03-18": 0
+      "2021-03-18": 9
     }
   },
   {
