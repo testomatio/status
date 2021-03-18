@@ -4,9 +4,9 @@
     "url": "https://testomat.io",
     "icon": "https://favicons.githubusercontent.com/testomat.io",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 920,
     "timeMonth": 913,
     "timeYear": 940,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-18": 0
+    }
   },
   {
     "name": "Testomatio App",
@@ -98,11 +100,11 @@
     "icon": "https://favicons.githubusercontent.com/beta.testomat.io",
     "slug": "testomatio-beta",
     "status": "up",
-    "uptime": "89.47%",
+    "uptime": "89.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "67.62%",
-    "uptimeYear": "89.47%",
+    "uptimeYear": "89.54%",
     "time": 336,
     "timeDay": 330,
     "timeWeek": 357,
