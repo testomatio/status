@@ -12,8 +12,6 @@ sites:
     url: https://jira.testomat.io/
   - name: App Assets
     url: https://app-assets.testomat.io/assets/frontend.css
-  - name: Testomatio Cloud
-    url: https://cloud.testomat.io/users/sign_in
   - name: Testomatio Beta
     url: https://beta.testomat.io/users/sign_in
   - name: Beta Assets
