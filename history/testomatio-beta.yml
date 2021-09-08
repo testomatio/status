@@ -1,7 +1,7 @@
 url: https://beta.testomat.io/users/sign_in
-status: down
-code: 502
-responseTime: 286
-lastUpdated: 2021-09-08T12:37:18.414Z
+status: up
+code: 200
+responseTime: 307
+lastUpdated: 2021-09-08T13:05:27.084Z
 startTime: Tue Dec 08 2020 20:21:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
